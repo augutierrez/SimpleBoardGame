@@ -1,0 +1,38 @@
+rook 0 0 w
+knight 1 0 w
+bishop 2 0 w
+bishop 5 0 w
+knight 6 0 w
+rook 7 0 w
+pawn 0 1 w
+pawn 1 1 w
+pawn 2 1 w
+pawn 3 1 w
+pawn 4 1 w
+pawn 5 1 w
+pawn 6 1 w
+pawn 7 1 w
+queen 3 0 w
+king 4 0 w
+
+rook 0 7
+knight 1 7
+bishop 2 7
+bishop 5 7
+knight 6 7
+rook 7 7
+pawn 0 6
+pawn 1 6
+pawn 2 6
+pawn 3 6
+pawn 4 6
+pawn 5 6
+pawn 6 6
+pawn 7 6
+queen 3 7
+king 4 7
+
+move 3 1 3 3
+
+
+
